@@ -3,11 +3,11 @@
   <title>PPeng 的博客</title>
   
   <subtitle>PPeng&#39;s Blog</subtitle>
-  <link href="https://ppengryuu.cn/atom.xml" rel="self"/>
+  <link href="https://m.ppengryuu.cn/atom.xml" rel="self"/>
   
-  <link href="https://ppengryuu.cn/"/>
+  <link href="https://m.ppengryuu.cn/"/>
   <updated>2024-06-01T16:27:14.753Z</updated>
-  <id>https://ppengryuu.cn/</id>
+  <id>https://m.ppengryuu.cn/</id>
   
   <author>
     <name>PPeng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>nmcli创建wifi热点</title>
-    <link href="https://ppengryuu.cn/p/cfacc943.html"/>
-    <id>https://ppengryuu.cn/p/cfacc943.html</id>
+    <link href="https://m.ppengryuu.cn/p/cfacc943.html"/>
+    <id>https://m.ppengryuu.cn/p/cfacc943.html</id>
     <published>2022-10-15T06:41:19.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -32,21 +32,21 @@
     
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/categories/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/categories/linux/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="nmcli" scheme="https://ppengryuu.cn/tags/nmcli/"/>
+    <category term="nmcli" scheme="https://m.ppengryuu.cn/tags/nmcli/"/>
     
-    <category term="wifi" scheme="https://ppengryuu.cn/tags/wifi/"/>
+    <category term="wifi" scheme="https://m.ppengryuu.cn/tags/wifi/"/>
     
   </entry>
   
   <entry>
     <title>debootstrap制作纯净ubutnu-armhf系统</title>
-    <link href="https://ppengryuu.cn/p/74ba0ebc.html"/>
-    <id>https://ppengryuu.cn/p/74ba0ebc.html</id>
+    <link href="https://m.ppengryuu.cn/p/74ba0ebc.html"/>
+    <id>https://m.ppengryuu.cn/p/74ba0ebc.html</id>
     <published>2022-10-15T00:55:32.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -60,21 +60,21 @@
     
     
     
-    <category term="debian" scheme="https://ppengryuu.cn/categories/debian/"/>
+    <category term="debian" scheme="https://m.ppengryuu.cn/categories/debian/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="debootstrap" scheme="https://ppengryuu.cn/tags/debootstrap/"/>
+    <category term="debootstrap" scheme="https://m.ppengryuu.cn/tags/debootstrap/"/>
     
-    <category term="ubuntu" scheme="https://ppengryuu.cn/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://m.ppengryuu.cn/tags/ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>华为悦盒EC6108V9C(hi3798mv100_hi3798mdmo1g)刷入debian9</title>
-    <link href="https://ppengryuu.cn/p/848060e4.html"/>
-    <id>https://ppengryuu.cn/p/848060e4.html</id>
+    <link href="https://m.ppengryuu.cn/p/848060e4.html"/>
+    <id>https://m.ppengryuu.cn/p/848060e4.html</id>
     <published>2022-10-13T00:42:12.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -85,21 +85,21 @@
     
     
     
-    <category term="极客" scheme="https://ppengryuu.cn/categories/%E6%9E%81%E5%AE%A2/"/>
+    <category term="极客" scheme="https://m.ppengryuu.cn/categories/%E6%9E%81%E5%AE%A2/"/>
     
     
-    <category term="华为悦盒EC6108V9C" scheme="https://ppengryuu.cn/tags/%E5%8D%8E%E4%B8%BA%E6%82%A6%E7%9B%92EC6108V9C/"/>
+    <category term="华为悦盒EC6108V9C" scheme="https://m.ppengryuu.cn/tags/%E5%8D%8E%E4%B8%BA%E6%82%A6%E7%9B%92EC6108V9C/"/>
     
-    <category term="hi3798mv100_hi3798mdmo1g" scheme="https://ppengryuu.cn/tags/hi3798mv100-hi3798mdmo1g/"/>
+    <category term="hi3798mv100_hi3798mdmo1g" scheme="https://m.ppengryuu.cn/tags/hi3798mv100-hi3798mdmo1g/"/>
     
-    <category term="极客" scheme="https://ppengryuu.cn/tags/%E6%9E%81%E5%AE%A2/"/>
+    <category term="极客" scheme="https://m.ppengryuu.cn/tags/%E6%9E%81%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>迅优103s棒子折腾笔记</title>
-    <link href="https://ppengryuu.cn/p/e1a1fb6.html"/>
-    <id>https://ppengryuu.cn/p/e1a1fb6.html</id>
+    <link href="https://m.ppengryuu.cn/p/e1a1fb6.html"/>
+    <id>https://m.ppengryuu.cn/p/e1a1fb6.html</id>
     <published>2022-10-08T07:29:25.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -110,21 +110,21 @@
     
     
     
-    <category term="极客" scheme="https://ppengryuu.cn/categories/%E6%9E%81%E5%AE%A2/"/>
+    <category term="极客" scheme="https://m.ppengryuu.cn/categories/%E6%9E%81%E5%AE%A2/"/>
     
     
-    <category term="极客" scheme="https://ppengryuu.cn/tags/%E6%9E%81%E5%AE%A2/"/>
+    <category term="极客" scheme="https://m.ppengryuu.cn/tags/%E6%9E%81%E5%AE%A2/"/>
     
-    <category term="随身wifi" scheme="https://ppengryuu.cn/tags/%E9%9A%8F%E8%BA%ABwifi/"/>
+    <category term="随身wifi" scheme="https://m.ppengryuu.cn/tags/%E9%9A%8F%E8%BA%ABwifi/"/>
     
-    <category term="迅优103s" scheme="https://ppengryuu.cn/tags/%E8%BF%85%E4%BC%98103s/"/>
+    <category term="迅优103s" scheme="https://m.ppengryuu.cn/tags/%E8%BF%85%E4%BC%98103s/"/>
     
   </entry>
   
   <entry>
     <title>Linux wine使用Windows版docker</title>
-    <link href="https://ppengryuu.cn/p/f3e98e4f.html"/>
-    <id>https://ppengryuu.cn/p/f3e98e4f.html</id>
+    <link href="https://m.ppengryuu.cn/p/f3e98e4f.html"/>
+    <id>https://m.ppengryuu.cn/p/f3e98e4f.html</id>
     <published>2022-06-02T13:51:53.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -135,21 +135,21 @@
     
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/categories/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/categories/linux/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="docker" scheme="https://ppengryuu.cn/tags/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/tags/docker/"/>
     
-    <category term="wine" scheme="https://ppengryuu.cn/tags/wine/"/>
+    <category term="wine" scheme="https://m.ppengryuu.cn/tags/wine/"/>
     
   </entry>
   
   <entry>
     <title>Linux Expose docker daemon</title>
-    <link href="https://ppengryuu.cn/p/5da216d3.html"/>
-    <id>https://ppengryuu.cn/p/5da216d3.html</id>
+    <link href="https://m.ppengryuu.cn/p/5da216d3.html"/>
+    <id>https://m.ppengryuu.cn/p/5da216d3.html</id>
     <published>2022-06-01T10:33:13.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -161,17 +161,17 @@
     
     
     
-    <category term="docker" scheme="https://ppengryuu.cn/categories/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/categories/docker/"/>
     
     
-    <category term="docker" scheme="https://ppengryuu.cn/tags/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>centos7安装docker</title>
-    <link href="https://ppengryuu.cn/p/877f4866.html"/>
-    <id>https://ppengryuu.cn/p/877f4866.html</id>
+    <link href="https://m.ppengryuu.cn/p/877f4866.html"/>
+    <id>https://m.ppengryuu.cn/p/877f4866.html</id>
     <published>2022-06-01T10:20:38.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -184,19 +184,19 @@
     
     
     
-    <category term="docker" scheme="https://ppengryuu.cn/categories/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/categories/docker/"/>
     
     
-    <category term="docker" scheme="https://ppengryuu.cn/tags/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/tags/docker/"/>
     
-    <category term="centos" scheme="https://ppengryuu.cn/tags/centos/"/>
+    <category term="centos" scheme="https://m.ppengryuu.cn/tags/centos/"/>
     
   </entry>
   
   <entry>
     <title>docker运行nextcloud</title>
-    <link href="https://ppengryuu.cn/p/f2db7b6e.html"/>
-    <id>https://ppengryuu.cn/p/f2db7b6e.html</id>
+    <link href="https://m.ppengryuu.cn/p/f2db7b6e.html"/>
+    <id>https://m.ppengryuu.cn/p/f2db7b6e.html</id>
     <published>2022-04-30T12:43:57.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -208,19 +208,19 @@
     
     
     
-    <category term="docker" scheme="https://ppengryuu.cn/categories/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/categories/docker/"/>
     
     
-    <category term="docker" scheme="https://ppengryuu.cn/tags/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/tags/docker/"/>
     
-    <category term="nextcloud" scheme="https://ppengryuu.cn/tags/nextcloud/"/>
+    <category term="nextcloud" scheme="https://m.ppengryuu.cn/tags/nextcloud/"/>
     
   </entry>
   
   <entry>
     <title>更改Windows上cmd的默认编码为UTF-8</title>
-    <link href="https://ppengryuu.cn/p/1cfca78e.html"/>
-    <id>https://ppengryuu.cn/p/1cfca78e.html</id>
+    <link href="https://m.ppengryuu.cn/p/1cfca78e.html"/>
+    <id>https://m.ppengryuu.cn/p/1cfca78e.html</id>
     <published>2022-04-29T02:02:34.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -231,17 +231,17 @@
     
     
     
-    <category term="windows" scheme="https://ppengryuu.cn/categories/windows/"/>
+    <category term="windows" scheme="https://m.ppengryuu.cn/categories/windows/"/>
     
     
-    <category term="windows" scheme="https://ppengryuu.cn/tags/windows/"/>
+    <category term="windows" scheme="https://m.ppengryuu.cn/tags/windows/"/>
     
   </entry>
   
   <entry>
     <title>解决Windows下python2报错&quot;LookupError:unknown encoding:cp65001&quot;</title>
-    <link href="https://ppengryuu.cn/p/89d31abd.html"/>
-    <id>https://ppengryuu.cn/p/89d31abd.html</id>
+    <link href="https://m.ppengryuu.cn/p/89d31abd.html"/>
+    <id>https://m.ppengryuu.cn/p/89d31abd.html</id>
     <published>2022-04-24T07:08:31.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -253,17 +253,17 @@
     
     
     
-    <category term="python2" scheme="https://ppengryuu.cn/categories/python2/"/>
+    <category term="python2" scheme="https://m.ppengryuu.cn/categories/python2/"/>
     
     
-    <category term="python2" scheme="https://ppengryuu.cn/tags/python2/"/>
+    <category term="python2" scheme="https://m.ppengryuu.cn/tags/python2/"/>
     
   </entry>
   
   <entry>
     <title>debian安装mysql以及一些基本的配置</title>
-    <link href="https://ppengryuu.cn/p/e0b16a19.html"/>
-    <id>https://ppengryuu.cn/p/e0b16a19.html</id>
+    <link href="https://m.ppengryuu.cn/p/e0b16a19.html"/>
+    <id>https://m.ppengryuu.cn/p/e0b16a19.html</id>
     <published>2022-04-13T09:53:56.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -274,19 +274,19 @@
     
     
     
-    <category term="mysql" scheme="https://ppengryuu.cn/categories/mysql/"/>
+    <category term="mysql" scheme="https://m.ppengryuu.cn/categories/mysql/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="mysql" scheme="https://ppengryuu.cn/tags/mysql/"/>
+    <category term="mysql" scheme="https://m.ppengryuu.cn/tags/mysql/"/>
     
   </entry>
   
   <entry>
     <title>修改 WSL2 容器的位置</title>
-    <link href="https://ppengryuu.cn/p/ce4a8fcc.html"/>
-    <id>https://ppengryuu.cn/p/ce4a8fcc.html</id>
+    <link href="https://m.ppengryuu.cn/p/ce4a8fcc.html"/>
+    <id>https://m.ppengryuu.cn/p/ce4a8fcc.html</id>
     <published>2022-04-05T14:31:11.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -297,17 +297,17 @@
     
     
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/categories/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/categories/wsl2/"/>
     
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/tags/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/tags/wsl2/"/>
     
   </entry>
   
   <entry>
     <title>使用windows计划任务实现wsl2开机自启，并且保持运行</title>
-    <link href="https://ppengryuu.cn/p/eb411f9c.html"/>
-    <id>https://ppengryuu.cn/p/eb411f9c.html</id>
+    <link href="https://m.ppengryuu.cn/p/eb411f9c.html"/>
+    <id>https://m.ppengryuu.cn/p/eb411f9c.html</id>
     <published>2022-04-05T13:52:44.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -318,17 +318,17 @@
     
     
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/categories/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/categories/wsl2/"/>
     
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/tags/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/tags/wsl2/"/>
     
   </entry>
   
   <entry>
     <title>使用nginx反向代理，实现windows主机直接访问WSL2中docker容器的bridge网络</title>
-    <link href="https://ppengryuu.cn/p/506c1f25.html"/>
-    <id>https://ppengryuu.cn/p/506c1f25.html</id>
+    <link href="https://m.ppengryuu.cn/p/506c1f25.html"/>
+    <id>https://m.ppengryuu.cn/p/506c1f25.html</id>
     <published>2022-04-05T10:30:54.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -340,21 +340,21 @@
     
     
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/categories/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/categories/wsl2/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="docker" scheme="https://ppengryuu.cn/tags/docker/"/>
+    <category term="docker" scheme="https://m.ppengryuu.cn/tags/docker/"/>
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/tags/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/tags/wsl2/"/>
     
   </entry>
   
   <entry>
     <title>WSL2下使用systemd的最佳方案</title>
-    <link href="https://ppengryuu.cn/p/f3ac6e58.html"/>
-    <id>https://ppengryuu.cn/p/f3ac6e58.html</id>
+    <link href="https://m.ppengryuu.cn/p/f3ac6e58.html"/>
+    <id>https://m.ppengryuu.cn/p/f3ac6e58.html</id>
     <published>2022-04-05T04:10:31.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -368,19 +368,19 @@
     
     
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/categories/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/categories/wsl2/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="wsl2" scheme="https://ppengryuu.cn/tags/wsl2/"/>
+    <category term="wsl2" scheme="https://m.ppengryuu.cn/tags/wsl2/"/>
     
   </entry>
   
   <entry>
     <title>解决idea不能使用Gnome全局菜单插件Fildem的BUG</title>
-    <link href="https://ppengryuu.cn/p/bdb488db.html"/>
-    <id>https://ppengryuu.cn/p/bdb488db.html</id>
+    <link href="https://m.ppengryuu.cn/p/bdb488db.html"/>
+    <id>https://m.ppengryuu.cn/p/bdb488db.html</id>
     <published>2022-01-25T11:53:15.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -391,17 +391,17 @@
     
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/categories/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/categories/linux/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>联想 Yoga720 15黑苹果备忘录</title>
-    <link href="https://ppengryuu.cn/p/6e68a89e.html"/>
-    <id>https://ppengryuu.cn/p/6e68a89e.html</id>
+    <link href="https://m.ppengryuu.cn/p/6e68a89e.html"/>
+    <id>https://m.ppengryuu.cn/p/6e68a89e.html</id>
     <published>2021-12-31T03:38:11.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -412,17 +412,17 @@
     
     
     
-    <category term="黑苹果" scheme="https://ppengryuu.cn/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
+    <category term="黑苹果" scheme="https://m.ppengryuu.cn/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
     
     
-    <category term="黑苹果" scheme="https://ppengryuu.cn/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
+    <category term="黑苹果" scheme="https://m.ppengryuu.cn/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
     
   </entry>
   
   <entry>
     <title>使用archinstall安装Arch时自定义btrfs子卷的方法</title>
-    <link href="https://ppengryuu.cn/p/63e30c18.html"/>
-    <id>https://ppengryuu.cn/p/63e30c18.html</id>
+    <link href="https://m.ppengryuu.cn/p/63e30c18.html"/>
+    <id>https://m.ppengryuu.cn/p/63e30c18.html</id>
     <published>2021-12-27T13:41:52.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -434,19 +434,19 @@
     
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/categories/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/categories/linux/"/>
     
     
-    <category term="linux" scheme="https://ppengryuu.cn/tags/linux/"/>
+    <category term="linux" scheme="https://m.ppengryuu.cn/tags/linux/"/>
     
-    <category term="archlinux" scheme="https://ppengryuu.cn/tags/archlinux/"/>
+    <category term="archlinux" scheme="https://m.ppengryuu.cn/tags/archlinux/"/>
     
   </entry>
   
   <entry>
     <title>parallels虚拟机试用过期后重新申请14天试用</title>
-    <link href="https://ppengryuu.cn/p/d16502d.html"/>
-    <id>https://ppengryuu.cn/p/d16502d.html</id>
+    <link href="https://m.ppengryuu.cn/p/d16502d.html"/>
+    <id>https://m.ppengryuu.cn/p/d16502d.html</id>
     <published>2021-12-01T13:41:52.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -457,17 +457,17 @@
     
     
     
-    <category term="macos" scheme="https://ppengryuu.cn/categories/macos/"/>
+    <category term="macos" scheme="https://m.ppengryuu.cn/categories/macos/"/>
     
     
-    <category term="macos" scheme="https://ppengryuu.cn/tags/macos/"/>
+    <category term="macos" scheme="https://m.ppengryuu.cn/tags/macos/"/>
     
   </entry>
   
   <entry>
     <title>Clion 插件 &quot;C/C++ Single File Execution&quot; 修复cmake报错</title>
-    <link href="https://ppengryuu.cn/p/9e023dbf.html"/>
-    <id>https://ppengryuu.cn/p/9e023dbf.html</id>
+    <link href="https://m.ppengryuu.cn/p/9e023dbf.html"/>
+    <id>https://m.ppengryuu.cn/p/9e023dbf.html</id>
     <published>2021-11-26T05:49:46.000Z</published>
     <updated>2024-06-01T16:27:14.753Z</updated>
     
@@ -479,12 +479,12 @@
     
     
     
-    <category term="Clion插件" scheme="https://ppengryuu.cn/categories/Clion%E6%8F%92%E4%BB%B6/"/>
+    <category term="Clion插件" scheme="https://m.ppengryuu.cn/categories/Clion%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="C++" scheme="https://ppengryuu.cn/tags/C/"/>
+    <category term="C++" scheme="https://m.ppengryuu.cn/tags/C/"/>
     
-    <category term="Clion插件" scheme="https://ppengryuu.cn/tags/Clion%E6%8F%92%E4%BB%B6/"/>
+    <category term="Clion插件" scheme="https://m.ppengryuu.cn/tags/Clion%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
